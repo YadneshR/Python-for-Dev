@@ -1,5 +1,5 @@
 
-Dev Practice Repository
+# Dev Practice Repository
 
 This repository contains Python scripts and practice code that I will be using while learning and experimenting with Dev concepts.
 
