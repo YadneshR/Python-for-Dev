@@ -1,5 +1,4 @@
 
-````markdown
 Dev Practice Repository
 
 This repository contains Python scripts and practice code that I will be using while learning and experimenting with Dev concepts.
@@ -16,7 +15,7 @@ This repository contains Python scripts and practice code that I will be using w
 1. Clone the repository:
    ```bash
    git clone https://github.com/YadneshR/Python-for-Dev.git
-````
+   ````
 
 2. Navigate into the repo:
 
