@@ -84,4 +84,4 @@ Deleted EBS snapshot snap-0ghi9012 as its associated volume was not found.
 
 ---
 
-Do you want me to also **add a small architecture diagram** showing how Lambda, EC2, snapshots, and CloudWatch interact? It’ll make this README look more polished and professional.
+
