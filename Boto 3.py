@@ -6,4 +6,4 @@ response = client.get_bucket_acl(
     Bucket='demo-boto3-yr-2025', 
 )
 
-print(response)
+print(response) 
