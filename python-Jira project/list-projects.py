@@ -4,9 +4,9 @@ import requests
 from requests.auth import HTTPBasicAuth
 import json
 
-url = "https://yadneshmraut.atlassian.net//rest/api/3/project"
+url = "<your_atlassian_link>"
 
-API_TOKEN= "ATATT3xFfGF0hp0AwLFTAC00ecL5otRINV-Gf9mdrYfKS5ujF66V4DjGNtKU09PnXdd_H-qUHEHs9x3LE95AW26B3jXc_FcX6ha7tgDqFDIgXZ4KLs5BCU5iraunN1OvUx0Pw5lWKQxQdAD5nFENmSpekyInroZEzEYtXZ5M_7hMlsjmEgiqFcI=99A35E5E"
+API_TOKEN= " "
 
 auth = HTTPBasicAuth("yadneshmraut@gmail.com", API_TOKEN)
 
